@@ -1,0 +1,13 @@
+asgiref==3.2.10
+Django==3.0.7
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.19.0
+pandas==1.0.5
+python-dateutil==2.8.1
+python-nvd3==0.14.2
+python-slugify==1.1.4
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+Unidecode==1.1.1
